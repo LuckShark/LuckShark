@@ -1,6 +1,6 @@
-## Olá! Eu sou o Lucas Araújo
+## Olá! Me chamo Lucas Araújo, sou estudante de programação!
 
-- 🌱 Estudante de Front-End
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 - 📫 Contacte-me no email: herpetolucas@gmail.com
 
 <div>
@@ -13,8 +13,8 @@
   <img align="center" alt="lu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="lu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="lu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="lu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="lu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<!--   <img align="center" alt="lu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="lu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
   <img align="right" alt="shark-timeGIF" height="150" width="150" src="https://cdnb.artstation.com/p/assets/images/images/038/456/781/original/noel-bellett-project-shark-gif-04-export-draft.gif?1623153583">
 </div>
   
