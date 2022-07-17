@@ -1,4 +1,4 @@
-## Olá! Me chamo Lucas Araújo, sou estudante de programação!
+## Olá! Me chamo Lucas Araújo, sou um Desenvolvedor Front-End!
 
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 - 📫 Contacte-me no email: herpetolucas@gmail.com
