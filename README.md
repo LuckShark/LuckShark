@@ -1,7 +1,8 @@
-## Olá! Me chamo Lucas Araújo, sou um Desenvolvedor Front-End!
+# 👋🏻 Hello there! My name is **Lucas Araújo**!
+## I'm a *Developer* from Brazil.
 
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
-- 📫 Contacte-me no email: herpetolucas@gmail.com
+### ✉️ Mail me: herpetolucas@gmail.com
+#
 
 <div>
   <a href="https://github.com/LuckShark">
