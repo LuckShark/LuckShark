@@ -1,4 +1,4 @@
-# 👋🏻 Hello there! My name is **Lucas Araújo**!
+# 🖖🏻 Hello there! My name is **Lucas Araújo**!
 ## I'm a *Developer* from Brazil.
 
 ### ✉️ Mail me: herpetolucas@gmail.com
