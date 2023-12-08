@@ -19,7 +19,7 @@
   <img align="center" alt="lu-Cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
   <img align="center" alt="lu-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
   <img align="center" alt="lu-postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img src="https://iconduck.com/icons/635/cypress" alt="Cypress Icon" height="30" width="30">
+  <img align="center" alt="Cypress Icon" height="30" width="40" src="https://freeicons.io/vector-and-svg-logos-icons-06/cypress-icon-icon">
 
 <!--   <img align="center" alt="lu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="lu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
