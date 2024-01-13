@@ -1,5 +1,5 @@
 # 🖖🏻 Hello there! My name is **Lucas Araújo**!
-## I'm a *Developer* from Brazil.
+## I'm a *Test Analyst* from Brazil.
 
 ### ✉️ Mail me: herpetolucas@gmail.com
 #
