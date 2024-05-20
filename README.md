@@ -1,5 +1,5 @@
 # 🖖🏻 Hello there! I'm **Lucas**!
-## I'm a *Test Analyst* from Brazil.
+## I'm a *Developer* from Brazil.
 Currently working as QA Analyst, having knowledge to create web automation using Cucumber Selenium Java, Robot Framework and Cypress.
 
 ### ✉️ Mail me: herpetolucas@gmail.com
